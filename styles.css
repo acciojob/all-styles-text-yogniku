@@ -7,7 +7,7 @@ Background-color: purple;
 border-left: 5px solid green;
 Padding : 10px;
 }
-.heading{
+#heading{
 	Font-size: 20px;
 color:white;
 Text-decoration:underline;
